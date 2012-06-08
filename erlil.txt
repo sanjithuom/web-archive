@@ -1,0 +1,1 @@
+Getting error using terminal.Trial at Gui
